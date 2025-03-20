@@ -1,8 +1,8 @@
-    ---
-    layout: default
-    title: Friends
-    ---
-    # Friends page
+---
+layout: default
+title: Friends
+---
+ # Friends page
 
     Berikut teman-teman kelompok saya :
     -[Agus Dewangga](https://agsdewg.github.io/)
